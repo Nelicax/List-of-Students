@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.lowScore {
+  color: red;
+}
